@@ -1,0 +1,5 @@
+config.properties
+*.class
+/.settings/
+/bin/
+/target/
